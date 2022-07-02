@@ -1,6 +1,3 @@
-// Java program to find next smallest
-// palindrome
-
 import java.util.Scanner;
 
 public class nextPalindrome
